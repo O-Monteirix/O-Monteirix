@@ -70,84 +70,102 @@ const joao = {
 
 <div align="center">
 
+---
+
+<div align="center">
+
 # ⚡ TECHNOLOGY STACK
 
-*Technologies, frameworks & tools I work with.*
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=php,js,ts,java,cs,cpp,python,dart,bash,html,css&theme=dark" />
-
-<img src="https://img.shields.io/badge/Visual_Basic_6-512BD4?style=flat-square&logo=visualstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+### MY TECHNOLOGIES & TOOLS
 
 <br/>
 
-### BACKEND & FRAMEWORKS
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,dotnet,django&theme=dark" />
+### BACKEND
 
-<img src="https://img.shields.io/badge/Laravel_Passport-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,dotnet,django&theme=dark" />
 
-<br/>
+</td>
+<td align="center" width="50%">
 
-### FRONTEND & UI
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=vue,react,angular,jquery,vuetify,tailwind,bootstrap,vite,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,angular,html,css&theme=dark" />
 
-<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Ziggy-FF2D20?style=flat-square" />
-<img src="https://img.shields.io/badge/Flowbite-1C64F2?style=flat-square" />
-<img src="https://img.shields.io/badge/Headless_UI-66E3FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/ApexCharts-00B4B4?style=flat-square" />
-<img src="https://img.shields.io/badge/Highcharts-8087E8?style=flat-square" />
-<img src="https://img.shields.io/badge/FullCalendar-3788D8?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<br/>
-
-### MOBILE DEVELOPMENT
+### MOBILE
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
 
-<br/>
+</td>
+<td align="center" width="50%">
 
 ### DATABASES
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark" />
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### DEVOPS & CLOUD
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,bash&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,figma&theme=dark" />
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-### DEVOPS & INFRASTRUCTURE
+### FRAMEWORKS, LIBRARIES & INTEGRATIONS
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,windows,nginx,bash,git,github,bitbucket&theme=dark" />
-
-<img src="https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/CyberPanel-1E90FF?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenLiteSpeed-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Supervisor-CC0000?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Laravel_Passport-FF2D20?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flowbite-1C64F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Headless_UI-66E3FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/ApexCharts-00B4B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Highcharts-8087E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FullCalendar-3788D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Day.js-FF5F4C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mercado_Livre-FFE600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nuvemshop-2D3277?style=for-the-badge"/>
 
 <br/>
 
-### APIs, INTEGRATIONS & AUTOMATION
+### LEGACY & ENTERPRISE TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-
-<img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/Mercado_Livre-FFE600?style=flat-square" />
-<img src="https://img.shields.io/badge/Nuvemshop-2D3277?style=flat-square" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/XML-FF6600?style=flat-square" />
-<img src="https://img.shields.io/badge/Webhooks-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/NF--e_/_NFC--e-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Visual_Basic_6-512BD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/XML-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/NF--e_/_NFC--e-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/AlmaLinux-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/CyberPanel-1E90FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenLiteSpeed-0078D4?style=flat-square"/>
 
 </div>
 
----
 ---
 
 <div align="center">
