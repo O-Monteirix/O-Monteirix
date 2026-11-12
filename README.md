@@ -6,13 +6,11 @@
 
 <br/>
 
-<a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-monteiro-1a1023187/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/O-Monteirix"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+<a href="mailto:joao.monteiro@totalcontrol.com.br"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -39,7 +37,7 @@ My experience goes beyond writing code. I work across the entire technology ecos
 - **Infrastructure & DevOps:** managing Linux servers, databases, Docker environments and deployments.
 - **Integrations:** connecting platforms, marketplaces, fiscal systems and third-party services.
 - **Leadership:** managing projects, teams, products and technology strategy.
-
+<!-- 
 ```javascript
 const joao = {
     position: "CEO & Software Engineer",
@@ -56,7 +54,7 @@ const joao = {
     ],
     philosophy: "Technology should solve problems and create opportunities."
 };
-```
+``` -->
 
 ---
 
@@ -71,7 +69,7 @@ const joao = {
 ## 01. Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,js,ts,dart,python,bash,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,java,cs,cpp,js,ts,dart,python,nodejs,bash,html,css&theme=dark" />
 </p>
 
 <p align="center">
@@ -82,7 +80,7 @@ const joao = {
 ## 02. Backend Development & Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,dotnet,django&theme=dark"/>
 </p>
 
 <p align="center">
@@ -106,7 +104,7 @@ const joao = {
 ## 03. Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,vue,html,css,tailwind,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,vue,vuetify,angular,react,jquery,html,css,tailwind,bootstrap,figma,vite&theme=dark"/>
 </p>
 
 **Frameworks, libraries and ecosystem:**
@@ -158,12 +156,14 @@ const joao = {
 ## 05. Databases & Data Engineering
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark"/>
 </p>
 
 **Database technologies:**
 - MySQL and MariaDB.
 - PostgreSQL.
+- MongoDB.
+- SQlite.
 - Redis.
 - Multi-database and multi-tenant architectures.
 - SQL query optimization.
@@ -175,7 +175,7 @@ const joao = {
 ## 06. DevOps, Infrastructure & Servers
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,windows,linux,nginx,bash,git,github,bitbucket&theme=dark"/>
 </p>
 
 **Infrastructure ecosystem:**
