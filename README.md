@@ -66,6 +66,8 @@ const joao = {
 
 </div>
 
+<div align="center">
+
 <br/>
 
 <table>
