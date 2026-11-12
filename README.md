@@ -1,143 +1,154 @@
- <!-- Profile README | João -->
+ <!-- JOAO - GITHUB PROFILE README -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:06B6D4&height=220&section=header&text=JOÃO&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20TECH%20ENTREPRENEUR&descSize=15&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=JO%C3%83O&fontSize=80&fontColor=ffffff&stroke=06B6D4&strokeWidth=1&animation=fadeIn&color=0:09090F,50:17123B,100:09090F"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=CEO+%40+Total+Control+Technology;Full+Stack+Software+Engineer;Backend+%26+Mobile+Developer;Building+Scalable+Business+Solutions;Technology+%7C+Innovation+%7C+Leadership" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=CEO+%40+Total+Control+Technology;Software+Engineer+%26+Tech+Entrepreneur;Building+Scalable+Business+Solutions;Architecture+%7C+Engineering+%7C+Innovation;Turning+Ideas+Into+Technology"/>
 
 <br/>
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-171923?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/CONTACT-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=312E81&label=PROFILE+VIEWS"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITORS&color=06B6D4&style=flat-square"/>
 
 </div>
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+## ABOUT ME
+
+**Technology is my business. Engineering is my craft. Innovation is my mindset.**
 
 </div>
 
----
+I'm João, a technology entrepreneur and software engineer, currently leading **Total Control Technology** as CEO.
 
-## `$ whoami`
+My work combines software engineering, business strategy, product development, infrastructure and team leadership.
 
-```javascript
+I build and evolve software ecosystems, from complex ERP platforms and enterprise APIs to modern web applications and mobile solutions.
+
+I enjoy solving challenging technical problems, designing scalable architectures and transforming business requirements into reliable technology.
+
+```typescript
 const joao = {
-    role: "CEO & Software Engineer",
+    title: "CEO & Software Engineer",
     company: "Total Control Technology",
-    focus: [
+    specialties: [
         "Software Architecture",
-        "ERP & Business Solutions",
         "Full Stack Development",
-        "Mobile Applications",
-        "Project & People Management"
+        "Enterprise Systems",
+        "Mobile Engineering",
+        "Cloud Infrastructure",
+        "Technical Leadership"
     ],
-    mindset: "Turning ideas into scalable technology."
+    philosophy: "Build with purpose. Scale with intelligence."
 };
 ```
 
-I'm a technology entrepreneur and software engineer passionate about creating solutions that transform businesses.
-
-As CEO of **Total Control Technology**, I work at the intersection of technology, business strategy, software engineering and people management.
-
-I enjoy designing architectures, developing applications, optimizing complex systems and leading teams to build products that generate real business value.
-
-**I don't just build software. I build solutions, products and businesses.**
-
 ---
 
-## `$ tech-stack`
+## THE ENGINEERING STACK
 
-### Backend Engineering
-<p>
+<div align="center">
+
+### BACKEND & ARCHITECTURE
+
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
-</p>
 
-### Frontend Engineering
-<p>
+### FRONTEND & INTERFACES
+
 <img src="https://skillicons.dev/icons?i=js,vue,html,css,tailwind,vite" />
-</p>
 
-### Mobile Development
-<p>
+### MOBILE ENGINEERING
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
-</p>
 
-### Database & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux,nginx" />
-</p>
+### DATABASE & DATA
 
-### Development Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
 
-### Other Technologies
+### INFRASTRUCTURE & DEVOPS
 
-![Laravel Passport](https://img.shields.io/badge/Laravel_Passport-OAuth2-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square)
-![REST API](https://img.shields.io/badge/REST-APIs-009688?style=flat-square)
-![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![VB6](https://img.shields.io/badge/Visual_Basic-6-512BD4?style=flat-square)
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,bash" />
+
+</div>
+
+### Beyond the stack
+
+| Technology | Application |
+|---|---|
+| Laravel Passport | OAuth2 and API authentication |
+| Inertia.js | Modern server-driven applications |
+| Axios | HTTP communication and integrations |
+| n8n | Workflow automation |
+| WhatsApp Cloud API | Business messaging |
+| VB6 | Legacy software and desktop systems |
+| REST APIs | Enterprise integrations |
+| XML / Fiscal APIs | Electronic invoicing and automation |
 
 ---
 
-## `$ what-i-build`
+## WHAT I BUILD
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Enterprise Software
-- ERP Systems
-- CRM Solutions
-- Retail Management
-- Financial Management
-- Business Automation
+### 01 / Enterprise Systems
+
+- ERP platforms
+- CRM ecosystems
+- Multi-tenant applications
+- Retail management systems
+- Financial and fiscal solutions
 
 </td>
 <td width="50%" valign="top">
 
-### Software Engineering
-- RESTful APIs
-- Multi-tenant Architecture
-- Database Optimization
-- System Integrations
-- Cloud Infrastructure
+### 02 / Software Engineering
+
+- Backend architecture
+- REST API development
+- Database optimization
+- System integrations
+- Performance engineering
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Mobile & Web
-- Flutter Applications
-- Android Development
-- Modern Web Interfaces
-- Real-time Integrations
-- Responsive Applications
+### 03 / Digital Products
+
+- Flutter applications
+- Android applications
+- Modern web platforms
+- Interactive dashboards
+- Automation solutions
 
 </td>
 <td width="50%" valign="top">
 
-### Leadership & Strategy
-- Technology Management
-- Project Management
-- Product Development
-- Team Leadership
-- Business Strategy
+### 04 / Technology Leadership
+
+- Product strategy
+- Project management
+- Team development
+- Technology planning
+- Business transformation
 
 </td>
 </tr>
@@ -145,60 +156,57 @@ I enjoy designing architectures, developing applications, optimizing complex sys
 
 ---
 
-## `$ github-analytics`
+## CURRENT FOCUS
+
+```text
+[01] Building and evolving enterprise software ecosystems
+[02] Modernizing legacy systems and integrations
+[03] Developing mobile and web applications
+[04] Improving database performance and architecture
+[05] Scaling technology products and engineering teams
+```
+
+---
+
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## `$ contribution-activity`
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineering%20Activity" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-## `$ featured-ecosystem`
-
 <div align="center">
 
-### Total Control Technology
+## BEYOND CODE.
 
-**Building technology that moves businesses forward.**
+**Think. Architect. Build. Lead.**
 
-ERP | CRM | Retail | Financial Systems | Integrations | Automation
+*Creating technology that makes businesses better.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:17123B,100:06B6D4&height=120&section=footer"/>
 
 </div>
 
----
+<!-- END -->
 
-## `$ philosophy`
-
-<div align="center">
-
-### "Great technology starts with understanding the problem."
-
-**Think strategically. Build intelligently. Lead with purpose.**
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090F&height=120&section=footer"/>
-
-</div>
-
-<!-- End of Profile README -->
