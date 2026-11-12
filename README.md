@@ -66,18 +66,6 @@ const joao = {
 
 </div>
 
----
-
-<div align="center">
-
----
-
-<div align="center">
-
-# ⚡ TECHNOLOGY STACK
-
-### MY TECHNOLOGIES & TOOLS
-
 <br/>
 
 <table>
