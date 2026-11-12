@@ -66,155 +66,88 @@ const joao = {
 
 </div>
 
-## 01. Programming Languages
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,java,cs,cpp,js,ts,dart,python,nodejs,bash,html,css&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/Visual%20Basic-6-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+# ⚡ TECHNOLOGY STACK
 
-## 02. Backend Development & Frameworks
+*Technologies, frameworks & tools I work with.*
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,dotnet,django&theme=dark"/>
-</p>
+### LANGUAGES
 
-<p align="center">
-<img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel_Passport-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth_2.0-Authentication-3C873A?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST-API-009688?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Tenant-Architecture-7C3AED?style=flat-square"/>
-</p>
+<img src="https://skillicons.dev/icons?i=php,js,ts,java,cs,cpp,python,dart,bash,html,css&theme=dark" />
 
-**Backend specialties:**
-- Laravel application architecture and advanced Eloquent.
-- RESTful API development.
-- OAuth2 and authentication.
-- Middleware and multi-tenant database connections.
-- Background jobs, queues and scheduled tasks.
-- Business logic and complex SQL operations.
-- Legacy system integration.
-- XML processing and fiscal integrations.
+<img src="https://img.shields.io/badge/Visual_Basic_6-512BD4?style=flat-square&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-## 03. Frontend Development
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,vue,vuetify,angular,react,jquery,html,css,tailwind,bootstrap,figma,vite&theme=dark"/>
-</p>
+### BACKEND & FRAMEWORKS
 
-**Frameworks, libraries and ecosystem:**
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,dotnet,django&theme=dark" />
 
-<p align="center">
-<img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ziggy-Laravel_Routes-FF2D20?style=flat-square"/>
-<img src="https://img.shields.io/badge/Flowbite-1C64F2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Headless_UI-66E3FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Laravel_Passport-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
 
-**UI, components and data visualization:**
+<br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Heroicons-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/ApexCharts-00B4B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Highcharts-8087E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/FullCalendar-3788D8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Day.js-FF5F4C?style=flat-square"/>
-<img src="https://img.shields.io/badge/vuedraggable-42B883?style=flat-square"/>
-</p>
+### FRONTEND & UI
 
-**Frontend specialties:**
-- Vue 3 with Options API.
-- Inertia.js and Laravel integration.
-- Responsive interfaces and dashboards.
-- Tailwind CSS with dark/light themes.
-- Component architecture and reusable UI.
-- Data visualization and interactive charts.
-- State, requests and navigation management.
-- Vite build optimization.
+<img src="https://skillicons.dev/icons?i=vue,react,angular,jquery,vuetify,tailwind,bootstrap,vite,figma&theme=dark" />
 
-## 04. Mobile Development
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Ziggy-FF2D20?style=flat-square" />
+<img src="https://img.shields.io/badge/Flowbite-1C64F2?style=flat-square" />
+<img src="https://img.shields.io/badge/Headless_UI-66E3FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/ApexCharts-00B4B4?style=flat-square" />
+<img src="https://img.shields.io/badge/Highcharts-8087E8?style=flat-square" />
+<img src="https://img.shields.io/badge/FullCalendar-3788D8?style=flat-square" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark"/>
-</p>
+<br/>
 
-**Mobile ecosystem:**
-- Flutter application development.
-- Dart programming.
-- Android applications.
-- Mobile UI and application architecture.
-- Backend integration through REST APIs.
+### MOBILE DEVELOPMENT
 
-## 05. Databases & Data Engineering
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark"/>
-</p>
+<br/>
 
-**Database technologies:**
-- MySQL and MariaDB.
-- PostgreSQL.
-- MongoDB.
-- SQlite.
-- Redis.
-- Multi-database and multi-tenant architectures.
-- SQL query optimization.
-- Indexes, joins and execution plans.
-- Data synchronization and consistency.
-- Database migrations and maintenance.
-- High-concurrency environments.
+### DATABASES
 
-## 06. DevOps, Infrastructure & Servers
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,windows,linux,nginx,bash,git,github,bitbucket&theme=dark"/>
-</p>
+<br/>
 
-**Infrastructure ecosystem:**
+### DEVOPS & INFRASTRUCTURE
 
-<p align="center">
-<img src="https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/CyberPanel-1E90FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenLiteSpeed-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Supervisor-CC0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cron-Scheduling-64748B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,windows,nginx,bash,git,github,bitbucket&theme=dark" />
 
-**Infrastructure specialties:**
-- Linux server administration.
-- VPS architecture and deployment.
-- Docker and container orchestration.
-- Web server configuration.
-- PHP and Laravel production environments.
-- Queue workers and scheduled jobs.
-- Redis and PostgreSQL infrastructure.
-- Performance monitoring and troubleshooting.
-- Backups, automation and server maintenance.
+<img src="https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/CyberPanel-1E90FF?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenLiteSpeed-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Supervisor-CC0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-## 07. APIs, Integrations & Automation
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postman&theme=dark"/>
-</p>
+### APIs, INTEGRATIONS & AUTOMATION
 
-<p align="center">
-<img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mercado_Livre-FFE600?style=flat-square&logo=mercadolivre&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nuvemshop-2D3277?style=flat-square"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML-FF6600?style=flat-square"/>
-<img src="https://img.shields.io/badge/Webhooks-7C3AED?style=flat-square"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" />
 
+<img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Mercado_Livre-FFE600?style=flat-square" />
+<img src="https://img.shields.io/badge/Nuvemshop-2D3277?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/XML-FF6600?style=flat-square" />
+<img src="https://img.shields.io/badge/Webhooks-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/NF--e_/_NFC--e-2563EB?style=flat-square" />
+
+</div>
+
+---
 ---
 
 <div align="center">
